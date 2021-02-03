@@ -6,3 +6,8 @@ xy= 2
 
 
 x+y = 7
+
+if x= 3
+if y=4
+
+print (xy)
