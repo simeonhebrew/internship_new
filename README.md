@@ -3,7 +3,7 @@ My first repository on GitHub.
 
  # fisrt level
 
-## second level\
+## second level
 
 ### third level
 
@@ -14,6 +14,8 @@ My first repository on GitHub.
 My name is *Hebrew*
 
 My name is **_Hebrew_**
+
+# text link
 
 Here is a link to the [tutorial](https://commonmark.org/help/)
 
