@@ -1,9 +1,11 @@
 # internship_new
 My first repository on GitHub.
 
-\\fisrt level
+ # fisrt level
 
-\\second level
+## second level\
+
+### third level
 
 *My name is Simeon*
 
@@ -28,7 +30,14 @@ Here is a link to the [roadmap](https://github.com/github/roadmap)
 
 Add an image
 
+Diving into github like ![caption](https://compote.slate.com/images/697b023b-64a5-49a0-8059-27b963453fb1.gif)
+
 #hello word script
 
 print(hello world!)
+
+* Books
+  1. Geography
+  2. History
+  3. Physics
 
