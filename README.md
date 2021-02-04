@@ -25,3 +25,5 @@ rscript
 Here is the logo of ![JKUAT](http://www.jkuat.ac.ke/departments/hr/wp-content/uploads/2015/07/jkuat-logo-2.jpg)
 
 :tada:
+
+Moving into github like ![caption](https://compote.slate.com/images/697b023b-64a5-49a0-8059-27b963453fb1.gif)
